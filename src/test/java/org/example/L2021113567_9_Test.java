@@ -28,7 +28,7 @@ public class L2021113567_9_Test {
     public void possibleBipartitionTest1() {
         int[][] arr = {{1, 2}, {1, 3}, {2, 3}};
         boolean res = new Solution9().possibleBipartition(3, arr);
-        Assert.assertEquals(true, res);
+        Assert.assertEquals(false, res);
     }
 
     /**
