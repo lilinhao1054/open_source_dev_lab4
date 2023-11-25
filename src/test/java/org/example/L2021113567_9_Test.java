@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.*;
 
 // 用例覆盖比较全面
+// 测试
 
 /**
  * possibleBipartition:
